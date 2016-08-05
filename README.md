@@ -24,3 +24,7 @@ Este es un demo creado con Codeigniter como **MVC** principal implementando **We
 7) Si no ocurrio ningun error, desde algun navegador abrimos la URL del administrador **localhost:8888/parkiller/index.php/Mapa** y en otra pestaña la URL del Mapa **http://localhost:8888/parkiller/index.php/Mapa/cliente**
 
 8) !Eso es todo¡, ahora solo queda desde el administrador agregar Clientes y Conductores Parkiller, al hacer esto automaticamente se actualizara el contenido de la pestaña Mapa con las rutas mas cortas entre conductores y clientes.
+
+Hay bastante mejoras en este demo, como por ejemplo, no tener que poner forzozamente las coordenadas de ubicación, otra seria que al hacer el drag de los marker se calculara de nuevo las rutas, etc.
+
+Saludos!

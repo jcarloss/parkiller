@@ -2,7 +2,7 @@
 	<form name="addPostForm" ng-model="addPostForm" >
 		<div class="row">
 			<div class="col-md-12 alert alert-danger">
-				* Por el momento el sistema solo acepta coordenadas como pocisiones 
+				* Por el momento el sistema solo acepta coordenadas como pocisiones
 			</div>
 			
 		</div>
